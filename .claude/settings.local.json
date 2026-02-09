@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python format_html.py:*)",
+      "Bash(grep:*)",
+      "Bash(for file in *.html)",
+      "Bash(do sed -i 's/Ontario, Canada/Kingston, NS/g' \"$file\")",
+      "Bash(done)",
+      "Bash(python:*)",
+      "Bash(find:*)",
+      "Bash(xargs sed:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+# robots.txt for Paul Wills & Associates
+# Website: https://www.pwillscpa.com
+
+User-agent: *
+Allow: /
+
+# Disallow specific paths if any
+# Disallow: /private/
+# Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://www.pwillscpa.com/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+# Crawl-delay: 1
